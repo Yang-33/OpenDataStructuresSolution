@@ -3,5 +3,9 @@ OpenDataStructureSolution.sln
 OpenDataStructureSolution.vcxproj
 OpenDataStructureSolution.vcxproj.filters
 OpenDataStructureSolution.vcxproj.user
-templete.cpp
+template.cpp
 bits
+mydebug.hpp
+mydebug.hpp.gch
+
+
