@@ -1,0 +1,11 @@
+.vs/
+OpenDataStructureSolution.sln
+OpenDataStructureSolution.vcxproj
+OpenDataStructureSolution.vcxproj.filters
+OpenDataStructureSolution.vcxproj.user
+template.cpp
+bits
+mydebug.hpp
+mydebug.hpp.gch
+
+
