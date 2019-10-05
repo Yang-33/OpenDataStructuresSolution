@@ -1,16 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
-#ifdef YANG33
-#include "mydebug.hpp"
-#else
-#define DD(x) 
-#endif
-
-#define UNIQ(c) (c).erase(unique(ALL((c))), end((c)))
-
-
 int main() {
 	vector<string>vs;
 
